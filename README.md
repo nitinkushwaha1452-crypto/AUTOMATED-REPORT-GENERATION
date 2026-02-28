@@ -38,3 +38,5 @@ Sample PDF Report: A generated report demonstrating the script’s functionality
 GitHub Repository: Contains the script, sample data file, generated report, and documentation.
 🌟 Conclusion
 This project highlights the importance of automation in report generation and showcases the power of Python in handling real-world tasks efficiently. By completing this task, I gained valuable experience in data analysis, file handling, and PDF creation. The skills developed through this project are highly relevant for roles in data analytics, software development, and automation engineering.
+# OUTPUT:-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8e0fc888-b8f6-42e9-a02a-86326f6a06a7" />
